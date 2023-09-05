@@ -9,8 +9,8 @@
  2. Horse riding.
  3. Watching sunset.
 
-## Dishes
 - Grilled fish.
 - Ice cream.
 - fruits
  ---
+ [Link to MyStats](MyStats.md)
